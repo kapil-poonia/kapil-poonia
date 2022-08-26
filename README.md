@@ -75,6 +75,6 @@ Here are some ideas to get you started:
 <a href="www.linkedin.com/in/kapil-poonia" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=connect&message=@Kapil-Poonia&color=success&logo=linkedin&style=flat-square&logoColor=white&colorA=blue" /> </a>
 <a href="https://www.github.com/kapil-poonia/" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=follow&message=@Kapil-Poonia&color=grey&logo=github&style=flat-square&logoColor=white&colorA=black" /> </a>
 <a href="mailto:123kapilpoonia123@gmail.com" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?message=123kapilpoonia123@gmail.com&label=send&style=flat-square&logo=gmail&color=red&logoColor=red&colorA=grey&link=mailto:123kapilpoonia123@gmail.com" /> </a>
-<a href="https://leetcode.com/Sparsh_Jain/" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=visit&message=@Sparsh_Jain&color=yellow&logo=leetcode&style=flat-square&logoColor=orange&colorA=black" /> </a>
-<img height="25" alt="Nodejs" src="https://visitor-badge.laobi.icu/badge?page_id=SparshJain2000.SparshJain2000" /> 
+<a href="https://auth.geeksforgeeks.org/user/123kapilpoonia123" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=visit&message=@Kapil-Poonia&color=yellow&logo=geeksforgeeks&style=flat-square&logoColor=green&colorA=black" /> </a>
+
 
