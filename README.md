@@ -31,12 +31,12 @@ Here are some ideas to get you started:
 <h3>💻 Things I code with</h3>
 <p>
 
-  <img height="25" alt="Angular" src="https://img.shields.io/badge/-Angular-CB3837?style=flat-square&logo=angular&logoColor=white" />
-  <img height="25" alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img height="25" alt="Angular" src="https://img.shields.io/badge/-Angular-CB3839?style=flat-square&logo=angular&logoColor=white" />
+  <img height="25" alt="React" src="https://img.shields.io/badge/-React-45b8d7?style=flat-square&logo=react&logoColor=white" />
   <img height="25" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img height="25" alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img height="25" alt="Dart" src="https://img.shields.io/badge/-Dart-13aa52?style=flat-square&logo=dart&logoColor=white" /> 
   <img height="25" alt="Flutter" src="https://img.shields.io/badge/-Flutter-007ACC?style=flat-square&logo=flutter&logoColor=white" /> 
+  <img height="25" alt="Dart" src="https://img.shields.io/badge/-Dart-13aa52?style=flat-square&logo=dart&logoColor=white" /> 
   <img height="25" alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img height="25" alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
  
